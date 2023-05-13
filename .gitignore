@@ -1,0 +1,7 @@
+# 临时文件
+.exe
+~$*
+output/
+# 配置信息
+.vscode/
+.idea/
