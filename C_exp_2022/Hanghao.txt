@@ -1,0 +1,10 @@
+Sub HangHao()
+Dim parag As Paragraph
+Dim nLineNum: nLineNum = 0
+Dim selRge As Range
+Set selRge = Selection.Range
+For Each parag In Selection.Paragraphs
+nLineNum = nLineNum + 1
+selRge.Paragraphs(nLineNum).Range.InsertBefore (Format$(nLineNum, "00") & "    ")
+Next
+End Sub
