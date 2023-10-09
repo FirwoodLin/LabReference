@@ -1,10 +1,8 @@
 # C_exp_2022
-Here are Fir's solutions of Clang experiments 2022 Fall.
-Just for reference use.
 
-8 Main Exps completed:2022/11/23-Evening
+2022 秋季，软件学院 C 语言程序设计实验课参考代码以及实例报告。
 
-Complementary Exercises completeted:2022/12
+
 
 ## 文件结构
 
@@ -22,3 +20,11 @@ Complementary Exercises completeted:2022/12
 ├─ReportStandardization     # 报告书写规范
 └─TheoryClassAssignment     # 理论课作业（头歌）
 ```
+
+`Report-*.doc` MS doc 格式的实验报告。
+
+## 工具链接
+
+[流程图生成](https://github.com/Enter-tainer/cxx2flow)
+
+[dekert 的博客](https://dekrt.cn/report/experiment/)
